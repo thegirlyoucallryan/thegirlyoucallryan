@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @thegirlyoucallryan
-- 👀 I’m interested in ... App Development
-- 🌱 I’m currently learning ... JavaScript
-- 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ... 
+- 👀 I’m interested in ... UX UI Development
+- 🌱 I’m currently learning ... Redux
+- 💞️ I’m looking to collaborate on ... Learning more code!
+- 📫 How to reach me ... ryan@elleestphotography.com
 
 <!---
 thegirlyoucallryan/thegirlyoucallryan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
