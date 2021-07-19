@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @thegirlyoucallryan
 - 👀 I’m interested in ... UX UI Development
 - 🌱 I’m currently learning ... Redux
-- 💞️ I’m looking to collaborate on ... Learning more code!
+- 💞️ I’m looking to collaborate on ... Learning more!
 - 📫 How to reach me ... ryan@elleestphotography.com
 
 <!---
